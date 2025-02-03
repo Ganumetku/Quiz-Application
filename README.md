@@ -44,7 +44,7 @@ A full-stack quiz application where users can create and attempt quizzes. Built 
    ```bash
    npm start
    ```
+git clone https://github.com/Ganumetku/Quiz-application.git
 
-
-Made with ❤️ by [Mahendra Khichar]
+Made with ❤️ by [Ganesh Metku]
 
