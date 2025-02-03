@@ -46,16 +46,7 @@ function App() {
     return () => clearInterval(timer);
   }, [isStarted, quizState.isComplete]);
 
-  // const fetchQuizData = async () => {
-  //   try {
-      // // Simulate API call with mock data
-  //     setQuiz(mockQuizData);
-  //   } catch (err) {
-  //     setError(err instanceof Error ? err.message : 'An error occurred');
-  //   } finally {
-  //     setLoading(false);
-  //   }
-  // };
+ 
   const fetchQuizData = async () => {
     try {
       // const response = await fetch('https://api.jsonserve.com/Uw5CrX'); // 
